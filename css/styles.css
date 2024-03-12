@@ -33,7 +33,7 @@ h1{
     background-color: transparent;
     position: absolute;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 30%;
     z-index: 100000;
     display: none;
 }
@@ -86,7 +86,7 @@ h1{
     width: 50%;
     animation: purinScale 5s ease-in infinite;
     position: relative;
-    top: 15%;
+    top: 17%;
 }
 
 
@@ -96,6 +96,8 @@ h1{
     }
     #astropurin{
         width: 550px;
+        height: 615px;
+        top: 34%;
     }
     #botonPu{
         font-size: 40px;
