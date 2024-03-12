@@ -18,6 +18,7 @@ h1{
     z-index: 2000;
     color: white;
     opacity: 0.2;
+    font-family: sans-serif;
     font-size: 18px;
 }
 #contenedor, #contenedor2, #contenedor3{
