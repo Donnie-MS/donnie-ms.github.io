@@ -33,7 +33,7 @@ h1{
     background-color: transparent;
     position: absolute;
     text-align: center;
-    margin-top: 30%;
+    margin-top: 10%;
     z-index: 100000;
     display: none;
 }
@@ -106,6 +106,9 @@ h1{
     }
     #botonPu:hover{
         font-size: 45px;
+    }
+    #lyric {
+        margin-top: 30%;
     }
 }
 .letra1{
